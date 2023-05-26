@@ -1,6 +1,7 @@
 # FitFam Dietary supplement Online store Performance Analysis
-
+![](Fitfam_Ecom_Analysis_Homepage.png)
 ## INTRODUCTION
+
 
 FitFam is a fictitious online retail store that sells Dietary Supplement and fitness items to smaller retailers and end consumers. The sales dataset from 2010-2013 was provided to gain historical insight that would be valuable to the company as management want to gain insights into factors that affected Sales Performance.
 With expansion in mind, the company is also seeking guidance into products that are not performing well so they can keep clear focus on whats is working  
