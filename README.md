@@ -26,7 +26,7 @@ The Dataset was loaded to power-query and the following activities took place
 ![](DAX.png)
 ### Data Modeling
 
-The Data Modelling was done to connect related tables together. Since the tables have been grouped into fact tables and dimension table connecting them together wasn’t much of a hassle. Several measures were created for the Analysis using DAX.
+The Data Modelling was done to connect related tables together. Since the tables have been grouped into fact tables and dimension table connecting them together wasn’t much of a hassle. Several measures were created for the Analysis using DAX. There are three facts table and 
 ![](Data_modeling.png)
 ### DATA visualization & Insights
 
