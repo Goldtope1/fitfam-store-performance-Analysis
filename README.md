@@ -35,7 +35,7 @@ The Data Modelling was done to connect related tables together. Since the tables
 
 ### INSIGHTS
 ![](Fitfam_Ecom_Analysis_Detail_Analysis.png)
-- An estimated total of 61,000 transaction took place between 2010-2013 and 214,000 quantities of products were sold.
+- An estimated total of 61,000 transaction took place between 2010-2013 and 214,000 Units of products were sold.
 - Net sale of $73M was made and a gross Profit of $48M was made during this period
 - A total of 14k quantity of product was returned and $6M was refunded to customers, this represents 8% refund rate compared to the total Revenue
  	2012 represented the highest refund year followed by 2013   
