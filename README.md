@@ -49,3 +49,6 @@ The Data Modelling was done to connect related tables together. Since the tables
 
 - The 100% egg Protein should be looked into to determine why it was returned by far the most times even though it was one the most profitable products
 - The Vigor male Multivitamin and the Victus Meal replacement should either be improved upon or dropped totally as it does not contribute any significant value to the revenue.
+
+To interact with this Report click the link below
+https://app.powerbi.com/reportEmbed?reportId=38ced4af-0079-4622-9ebb-6a1442834234&autoAuth=true&ctid=8c8a8fe7-339a-4647-9a44-591b01a33f09
