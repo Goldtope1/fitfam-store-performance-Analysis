@@ -4,11 +4,11 @@
 
 
 FitFam is a fictitious online retail store that sells Dietary Supplement and fitness items to smaller retailers and end consumers. The sales dataset from 2010-2013 was provided to gain historical insight that would be valuable to the company as management want to gain insights into factors that affected Sales Performance.
-With expansion in mind, the company is also seeking guidance into products that are not performing well so they can keep clear focus on whats is working  
+With expansion in mind, the company is also seeking guidance into products that are not performing well so they can keep clear focus on what is working  
 
 ### Problem Statement 
 
-As a Data Analyst, I was tasked to analyze their historical data and design an detailed business solution for the company
+As a Data Analyst, I was tasked to analyze their historical data and design a detailed business solution for the company
 I was tasked to track KPIs like ( Net sale, profit, Orders and returns) and show the products with the highest return and refund rate. 
 Also to show these KPIs on weekly, monthly, quarterly and yearly basis
 
